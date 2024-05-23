@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Overgrow",
+        "description": "Increases the power of Grass-type moves",
+        "imageUrl": "https://example.com/images/abilitie/overgrow.jpg",
+        "isHidden": false
+    },
+    {   
+        "id": 2,
+        "name": "Chlorophyll",
+        "description": "Doubles the ability-bearer's Speed",
+        "imageUrl": "https://example.com/images/abilitie/chlorophyll.jpg",
+        "isHidden": true
+    },
+    {
+        "id": 3,
+        "name": "Blaze",
+        "description": "Increases the power of Fire-type moves",
+        "imageUrl": "https://example.com/images/abilitie/blaze.jpg",
+        "isHidden": false
+    },
+    {
+        "id": 4,
+        "name": "Solar Power",
+        "description": "Special Attack stat is increased",
+        "imageUrl": "https://example.com/images/abilitie/solar-Power.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 5,
+        "name": "Torrent",
+        "description": "Increases the power of Water-type moves",
+        "imageUrl": "https://example.com/images/abilitie/torrent.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 6,
+        "name": "Rain Dish",
+        "description": "Heals HP in rain",
+        "imageUrl": "https://example.com/images/abilitie/rain-dish.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 7,
+        "name": "Static",
+        "description": "May cause paralysis if target uses a contact move",
+        "imageUrl": "https://example.com/images/abilitie/static.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 8,
+        "name": "Lightning Rod",
+        "description": "Draws in all Electric-type moves to boost its Special Attack stat",
+        "imageUrl": "https://example.com/images/abilitie/lightning-rod.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 9,
+        "name": "Cute Charm",
+        "description": "May cause infatuation if target uses a contact move",
+        "imageUrl": "https://example.com/images/abilitie/cute-charm.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 10,
+        "name": "Competitive",
+        "description": "Raises Special Attack by two stages when a stat is lowered",
+        "imageUrl": "https://example.com/images/abilitie/competitive.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 11,
+        "name": "Pickup",
+        "description": "The Pokémon may pick up the item an opposing Pokémon used during a battle",
+        "imageUrl": "https://example.com/images/abilitie/pickup.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 12,
+        "name": "Technician",
+        "description": "Powers up the Pokémon's weaker moves",
+        "imageUrl": "https://example.com/images/abilitie/technician.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 13,
+        "name": "Rock Head",
+        "description": "Protects the Pokémon from recoil damage",
+        "imageUrl": "https://example.com/images/abilitie/rock-head.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 14,
+        "name": "Sturdy",
+        "description": "The Pokémon is unaffected by One Hit Knock Out moves and in Generation V, the Pokémon cannot be knocked out when it has full Hit Points",
+        "imageUrl": "https://example.com/images/abilitie/sturdy.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 15,
+        "name": "Swift Swim",
+        "description": "Doubles Speed during rain",
+        "imageUrl": "https://example.com/images/abilitie/swift-swim.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 16,
+        "name": "Rattled",
+        "description": "Raises Speed one stage upon being hit by a Bug-, Ghost-, or Dark-type move",
+        "imageUrl": "https://example.com/images/abilitie/rattled.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 17,
+        "name": "Run Away",
+        "description": "Enables sure getaway from wild Pokémon",
+        "imageUrl": "https://example.com/images/abilitie/run-away.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 18,
+        "name": "Adaptability",
+        "description": "Powers up moves of the same type",
+        "imageUrl": "https://example.com/images/abilitie/adaptability.jpg",
+        "isHidden": true
+    },
+      {
+        "id": 19,
+        "name": "Immunity",
+        "description": "Prevents the Pokémon from getting poisoned",
+        "imageUrl": "https://example.com/images/abilitie/immunity.jpg",
+        "isHidden": false
+    },
+      {
+        "id": 20,
+        "name": "Thick Fat",
+        "description": "Halves damage from Fire- and Ice-type moves",
+        "imageUrl": "https://example.com/images/abilitie/thick-fat.jpg",
+        "isHidden": true
+    }
+]
